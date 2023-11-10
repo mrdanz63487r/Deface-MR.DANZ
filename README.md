@@ -1,9 +1,9 @@
-# Deface
-apt update && apt upgrade
+# Deface By MR.DANZ
+pkg update && pkg upgrade
 
-apt install git
+pkg install git
 
-git clone https://github.com/Galirus404/DEFACE
+git clone https://github.com/mrdanz63487r/Deface-MR.DANZ
 
 cd DEFACE
 
